@@ -8,7 +8,7 @@
 
 *Transforming data into meaningful insights and intelligent solutions.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/merve-söğürtlüpinar/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merve-s%C3%B6%C4%9F%C3%BCrtl%C3%BCpinar/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mervesgrtlpnr)
 
 </div>
